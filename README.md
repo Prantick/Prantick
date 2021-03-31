@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prantick
+- 👀 I’m interested in the Web.
+- 🌱 I’m currently learning how to create a fast and efficient web application using concepts of SSR, Web workers and Web Assembly.
+- 💞️ I’m looking forward to collaborate on making games for the browser.
+- 📫 Reach me out at: https://linkedin.com/in/prantick
